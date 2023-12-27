@@ -1,1 +1,1 @@
-<script src="creat-docuemt.js "> console.log("teste de git")</script>
+<script src="creat-docuemt.js "> console.log("teste de git") window.alert("teste de branch")</script>
