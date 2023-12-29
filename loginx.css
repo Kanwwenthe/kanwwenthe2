@@ -141,7 +141,7 @@ h3{ padding: 30px;
 .button23{
     display: flex;
     justify-content: center;
-    padding-top:20px ;
+    padding-top:20px ;   
 }
 .button1{
     background-color: hsl(132, 58%, 33%);
@@ -165,7 +165,7 @@ h3{ padding: 30px;
     font-family:"Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     line-height: 30px;
     color:white;
-    text-align: center;
+    text-align: center;  
 }
 #lorem{
     font-family:"Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
@@ -182,4 +182,5 @@ h3{ padding: 30px;
 }
 #line{
     width: 600px;
+    background-color: hsl(132, 58%, 33%) ;
 }
